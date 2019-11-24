@@ -23,5 +23,3 @@ sections:
     headline: Photography
     extends: sections/albums
     status: listed
-
-

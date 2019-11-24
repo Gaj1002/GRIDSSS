@@ -1,6 +1,7 @@
-Title: The Grid System
-----
-
 Title_header_1: Units
 ----
 Text_header_1: Dit is text voor units
+----
+Heading: This is a heading
+----
+Text: Did I break it already
