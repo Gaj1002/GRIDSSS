@@ -1,7 +1,73 @@
-Title_header_1: Units
+Topic_1: Wat is een grid?
 ----
-Text_header_1: Dit is text voor units
+Topic_2: Waarom gebruik je grids?
 ----
-Heading: This is a heading
+Topic_3: Terminologie
 ----
-Text: Did I break it already
+Topic_4: Starting points
+----
+Topic_5: Do's and Don't
+----
+Topic_6: Tools
+----
+Topic_7: History
+----
+Topic_8: We ran out of topics
+----
+
+
+----
+Introduction_topic_3: Om het ontwerp van een grid goed te kunnen communiceren met anderen is het belangrijk om dezelfde terminologie te gebruiken.
+----
+Header_topic_3_1: Format
+----
+Text_topic_3_1:Het medium waarbinnen een ontwerp is geplaatst. Bijvoorbeeld: In een boek zou het format de pagina zijn; op een webpagina is dit de grootte van het venster van je webbrowser.
+----
+Header_topic_3_2: Units
+----
+Text_topic_3_2:Units zijn de verticale lijnen waarin een grid is verdeeld. Het is de kleinste verticale verdeling van een format, en is hierdoor meestal te klein om tekstuele content in te plaatsen. Zie het als het skelet van een grid.
+----
+Header_topic_3_3: Kolommen
+----
+Text_topic_3_3: Kolommen zijn een combinatie van een of meerdere units met hetzelfde type content.
+----
+Header_topic_3_4: Gutters
+----
+Text_topic_3_4: Gutters vormen de witruimte tussen de units. Ze bestaan om een duidelijk onderscheid te creëren tussen de verschillende elementen op de pagina door ze visueel uit elkaar te plaatsen. Gutters geven de content als het ware ruimte om adem te halen, wat zorgt voor een rustige uitstraling.
+----
+Header_topic_3_5: Baseline Grid
+----
+Text_topic_3_5: Het baseline grid zijn de onzichtbare horizontale lijnen waarop een lettertype berust. Het wordt bepaald door de lijnhoogte (of leading) van de typografie op de pagina. Dit is de voornaamste reden dat type design en grid design nauw verbonden zijn met elkaar.
+----
+Header_topic_3_6: Margin & Padding
+----
+Text_topic_3_6: Margins vormen de witruimte tussen de buitenste rand van de content en de rand van het format. Paddings vormen de witruimte aan de binnenkant van de content.
+----
+Header_topic_3_7: Content
+----
+Text_topic_3_7: Alle losse onderdelen waarmee een grid kan worden ingedeeld. Bijvoorbeeld: text, headers, afbeeldingen, knoppen, etc.----
+----
+Header_topic_3_8: Rows
+----
+Text_topic_3_8: Fields zijn de horizontale verdeling van een grid. Er zijn verschillende manieren waarop de hoogte van fields berekend kunnen worden, maar de meest effectieve manieren zijn om het grid uit te lijnen op het baseline grid, het gebruik van de golden ratio.
+----
+Header_topic_3_9: Modules
+----
+Text_topic_3_9: Modules zijn de vlakken die ontstaan tussen de kruising van de verticale en horizontale lijnen in een grid.
+----
+
+
+Introduction_topic_4: Soms is het lastig bepalen waar je moet beginnen bij het opstellen van een grid. Hieronder volgen een aantal veelgebruikte technieken die het makkelijker maken om tot een goed grid te komen.
+----
+Header_topic_4_1: Golden ratio
+----
+Text_topic_4_1:De golden ratio (1:1.618) is een vaak voorkomende ratio in de natuur. Elementen met de ratio (bijvoorbeeld een UI element) worden hierdoor vaak als visueel aantrekkelijk beschouwd.
+----
+Text_topic_4_2: De fibonacci sequence is een serie getallen waarbij elk getal wordt gevormd door de som van de twee nummers die ervoor kwamen, gestart bij 0 en 1. Het delen van twee opeenvolgende getallen leidt tot de golden ratio.
+----
+Header_topic_4_3: Rule of Thirds
+----
+Text_topic_4_3: De rule of thirds of ‘regel van derden’ verdeelt een format (zoals een webpagina) in drie verticale en drie horizontale delen waarbij visuele elementen op de kruising van de 4 lijnen worden geplaatst.
+----
+Text_topic_4_4: Het plaatsen van belangrijke content op de kruisingen maakt het makkelijker voor de gebruiker om informatie te scannen, en zorgt tegelijkertijd voor een mooi visueel beeld.
+----

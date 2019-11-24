@@ -1,10 +1,102 @@
-body {
-    margin-top: 20px;
+*,
+*:after,
+*:before{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+.modal-content p {
+  padding: 0 15px 0 15px;
+}
+
+.modal-content h6 {
+  padding: 0 0 0 15px;
+}
+
+.kop {
+  font-weight: bold;
+  font-style: italic;
+  margin: 0;
+}
+
+.modal-content img {
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+.col {
+  padding: 0;
+  border: 0px;
+}
+
+.page {
+  padding: 36px 40px!important;
+  }
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";;
+}
+
+.col-md-3 {
+  padding:  0.2rem;
+  /* background-color: orangered; */
+}
+
+.col-xs-6 img {
+  height: 200px;
+}
+
+/* .col-short {
+  height: 100px;
+} */
+
+.card-body {
+  background-color: #212121;
+}
+
+/* .col-move-up {
+  margin-top: -100px;
+} */
+
+.grid-row {
+  height: 750px;
+}
+
+.eerste-row {
+  height: 155px;
+}
+
+.btn-primary {
+  position: relative;
+  background-color: orange;
+  border: none;
+  border-radius: none;
+}
+
+.btn {
+  border-radius: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.btn-primary:active {
+  border: none;
+}
+
+.topic-title {
+  position: absolute;
+  left: 26px;
+  bottom: 10px;
+  font-weight: bold;
+}
+
+img {
+  width: 61%;
+}
 
 #logo {
-    width: 200px;
+    width: 200px !important;
     margin-top: 15px;
 }
 
@@ -12,19 +104,10 @@ body {
     margin-left: 0;
 }
 
-/*Not Required*/
-.btn {
-    margin-bottom:15px;
-    width: 258px;
-    height: 200px;
-}
-
 /*Required*/
 @media (max-width: 576px){.modal-dialog.modal-dialog-slideout {width: 80%}}
-
-@media (min-width: 576px){
     .modal-dialog {
-        margin: 0px 0px 0px !important; 
+        margin: 0px 0px 0px !important;
         max-width: 600px !important;
     }
 
@@ -33,12 +116,12 @@ body {
         color: #fff;
         border-top-left-radius: 0 !important;
         border-top-right-radius: 0 !important;
+        margin-bottom: 10px;
     }
 
     span {
         color: white !important;
     }
-}
 
 .modal-dialog-slideout {
     margin: 0;
@@ -59,13 +142,4 @@ body {
 
 .modal.right.fade.in .modal-dialog {
     right: 0;
-}
-
-.col {
-    height: 100vh;
-    border: 1px dashed red;
-}
-
-.modal-content p {
-    padding: 15px !important;
 }
