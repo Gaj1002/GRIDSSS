@@ -1,6 +1,6 @@
 .notes {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 4fr));
   grid-gap: 1.5rem;
   grid-auto-rows: 1fr;
 }
