@@ -20,6 +20,8 @@
             <span aria-hidden="true">×</span>
           </button>
       </div>
+<!-- Tekst -->
+
         <h6>Waarom worden grids gebruikt?</h6>
         <p>Het hele doel van designers is het oplossen van problemen. Webdesigners worden geconfronteerd met het zoeken van problemen om bepaalde elementen goed te visualiseren en te organiseren. Om een van deze problemen aan te gaan kunnen we daarom dus gebruik maken van Grids. Dit is zeker niet de enige oplossing om het hele probleem te verhelpen, maar het heeft natuurlijk wel een paar interessante voordelen:</p>
         <p class="kop">Efficientie:</p>
