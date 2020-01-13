@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403" height="288" viewBox="0 0 403 288">
+  <defs>
+    <clipPath id="clip-modules_graphic">
+      <rect width="403" height="288"/>
+    </clipPath>
+  </defs>
+  <g id="modules_graphic" clip-path="url(#clip-modules_graphic)">
+    <rect width="403" height="288" fill="#fff"/>
+    <rect id="Rectangle_197" data-name="Rectangle 197" width="403" height="288" fill="#171717"/>
+    <g id="Group_31" data-name="Group 31">
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="94" height="43" fill="#bfbfbf"/>
+      <rect id="Rectangle_148" data-name="Rectangle 148" width="94" height="94" transform="translate(0 48)" fill="#bfbfbf"/>
+      <rect id="Rectangle_152" data-name="Rectangle 152" width="94" height="94" transform="translate(0 147)" fill="#bfbfbf"/>
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="94" height="42" transform="translate(0 246)" fill="#bfbfbf"/>
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="94" height="43" transform="translate(103)" fill="#bfbfbf"/>
+      <rect id="Rectangle_149" data-name="Rectangle 149" width="94" height="94" transform="translate(103 48)" fill="#c400ff"/>
+      <rect id="Rectangle_153" data-name="Rectangle 153" width="94" height="94" transform="translate(103 147)" fill="#bfbfbf"/>
+      <rect id="Rectangle_157" data-name="Rectangle 157" width="94" height="42" transform="translate(103 246)" fill="#bfbfbf"/>
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="94" height="43" transform="translate(206)" fill="#bfbfbf"/>
+      <rect id="Rectangle_150" data-name="Rectangle 150" width="94" height="94" transform="translate(206 48)" fill="#bfbfbf"/>
+      <rect id="Rectangle_154" data-name="Rectangle 154" width="94" height="94" transform="translate(206 147)" fill="#bfbfbf"/>
+      <rect id="Rectangle_158" data-name="Rectangle 158" width="94" height="42" transform="translate(206 246)" fill="#bfbfbf"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="94" height="43" transform="translate(309)" fill="#bfbfbf"/>
+      <rect id="Rectangle_151" data-name="Rectangle 151" width="94" height="94" transform="translate(309 48)" fill="#bfbfbf"/>
+      <rect id="Rectangle_155" data-name="Rectangle 155" width="94" height="94" transform="translate(309 147)" fill="#bfbfbf"/>
+      <rect id="Rectangle_159" data-name="Rectangle 159" width="94" height="42" transform="translate(309 246)" fill="#bfbfbf"/>
+    </g>
+  </g>
+</svg>

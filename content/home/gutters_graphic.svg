@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403" height="288" viewBox="0 0 403 288">
+  <defs>
+    <clipPath id="clip-gutters_graphic">
+      <rect width="403" height="288"/>
+    </clipPath>
+  </defs>
+  <g id="gutters_graphic" clip-path="url(#clip-gutters_graphic)">
+    <rect width="403" height="288" fill="#fff"/>
+    <rect id="Rectangle_197" data-name="Rectangle 197" width="403" height="288" fill="#171717"/>
+    <g id="Group_25" data-name="Group 25">
+      <rect id="Rectangle_147" data-name="Rectangle 147" width="403" height="248" transform="translate(0 20)" fill="#c400ff"/>
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="94" height="288" fill="#bfbfbf"/>
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="94" height="288" transform="translate(103)" fill="#bfbfbf"/>
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="94" height="288" transform="translate(206)" fill="#bfbfbf"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="94" height="288" transform="translate(309)" fill="#bfbfbf"/>
+    </g>
+  </g>
+</svg>

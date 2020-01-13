@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="403" height="288" viewBox="0 0 403 288">
+  <defs>
+    <clipPath id="clip-baselinegrid_graphic">
+      <rect width="403" height="288"/>
+    </clipPath>
+  </defs>
+  <g id="baselinegrid_graphic" clip-path="url(#clip-baselinegrid_graphic)">
+    <rect width="403" height="288" fill="#fff"/>
+    <rect id="Rectangle_197" data-name="Rectangle 197" width="403" height="288" fill="#171717"/>
+    <g id="Group_24" data-name="Group 24">
+      <rect id="Rectangle_143" data-name="Rectangle 143" width="94" height="288" fill="#bfbfbf"/>
+      <rect id="Rectangle_144" data-name="Rectangle 144" width="94" height="288" transform="translate(103)" fill="#bfbfbf"/>
+      <rect id="Rectangle_145" data-name="Rectangle 145" width="94" height="288" transform="translate(206)" fill="#bfbfbf"/>
+      <rect id="Rectangle_146" data-name="Rectangle 146" width="94" height="288" transform="translate(309)" fill="#bfbfbf"/>
+      <text id="Lorem_ipsum_dolor_sit_amet_consectetur_a_adipiscing_elit_deus" data-name="Lorem ipsum dolor sit amet, consectetur a adipiscing elit deus" transform="translate(10)" fill="#fff" font-size="40" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="43">Lorem ipsum dolor </tspan><tspan x="0" y="142">sit amet, consectetur </tspan><tspan x="0" y="241">a adipiscing elit deus</tspan></text>
+      <line id="Line_8" data-name="Line 8" x2="403" transform="translate(0 45.5)" fill="none" stroke="#c400ff" stroke-width="5"/>
+      <line id="Line_9" data-name="Line 9" x2="403" transform="translate(0 144.5)" fill="none" stroke="#c400ff" stroke-width="5"/>
+      <line id="Line_10" data-name="Line 10" x2="403" transform="translate(0 243.5)" fill="none" stroke="#c400ff" stroke-width="5"/>
+    </g>
+  </g>
+</svg>
