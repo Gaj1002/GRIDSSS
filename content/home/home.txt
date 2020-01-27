@@ -18,7 +18,7 @@ Topic_8: Bronnen
 
 Header_topic_1_1:
 ----
-Text_topic_1_1:
+Text_topic_1_1: Grids (of grid systeem) is een methode waarbij informatie visueel geordend wordt in rasters, om zo het gebruiksgemak van een format (tijdschrift, webpagina, etc.) te verhogen. De methode wordt meestal ingezet om consistentie, duidelijkheid, en een visueel geheel te vormen.
 ----
 
 
@@ -174,7 +174,7 @@ Text_topic_6_3: De persistentie van grid-gebaseerd ontwerp in web- en app ontwer
 
 Introduction_topic_7: Soms is het lastig bepalen waar je moet beginnen bij het opstellen van een grid. Hieronder volgen een aantal veelgebruikte technieken die het makkelijker maken om tot een goed grid te komen.
 ----
-Header_topic_7_1: Fibonacci (en golden ratio)
+Header_topic_7_1: Fibonacci
 ----
 Text_topic_7_1: De Fibonacci-reeks is serie getallen, beginnend met 0 en 1, waarbij het volgende getal in de reeks altijd bepaald wordt door de som van de twee getallen ervoor. Het delen van twee opeenvolgende getallen leidt tot de golden ratio (1:1.618). Deze ratio komt vaak terug in de natuur waardoor elementen met de ratio (bijvoorbeeld een UI element) hierdoor vaak als visueel aantrekkelijk worden beschouwd.
 ----

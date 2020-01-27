@@ -23,6 +23,15 @@
   cursor: pointer;
 }
 
+.container {
+  padding: 0px;
+  text-align: center;
+}
+
+/* .container h5 {
+  text-align: center !important;
+} */
+
 #logo {
   width: 468px;
   margin-left: 5px;
@@ -85,6 +94,12 @@
   animation-delay: 8s;
 }
 
+hr {
+  background-color: #fff;
+  margin: 29px 0;
+
+}
+
 p {
   font-family: "Ubuntu", sans-serif;
   font-weight: bold;
@@ -92,15 +107,36 @@ p {
   font-size: 2rem;
 }
 
-h5 {
+h1 {
   font-family: "Segoe UI", sans-serif;
   font-size: 36px;
+  color: #171717;
+  font-weight: bold;
   text-align: center;
   width: 100%;
 }
 
-.grid-row {
-  height: 600px;
+h2 {
+  font-family: "Segoe UI", sans-serif;
+  font-weight: bold;
+  font-size: 4em;
+  line-height: 1em;
+  padding: 0;
+  margin: 116px 0 29px 0;
+}
+
+h3 {
+  font-family: "Segoe UI", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  padding: 0;
+  margin: 0 0 29px 0;
+}
+
+img {
+  width: 100%;
+  margin-bottom: 29px;
 }
 
 * {
@@ -287,30 +323,21 @@ body {
       width: auto;
     }
 
-    .modal-content-copy h6 {
-      font-family: "Segoe UI", sans-serif;
-      font-weight: bold;
-      font-size: 24px;
-      line-height: 29px;
-      padding: 0;
-      margin: 0 0 29px 0;
-    }
-
-    #exampleModal1 h6 {color: #FF5454;}
+    #exampleModal1 h2, #exampleModal1 h3 {color: #FF5454;}
     #exampleModal1 .modal-header {background-color: #FF5454!important;}
-    #exampleModal2 h6 {color: #FFBF60;}
+    #exampleModal2 h2, #exampleModal2 h3 {color: #FFBF60;}
     #exampleModal2 .modal-header {background-color: #FFBF60!important;}
-    #exampleModal3 h6 {color: #FEDA2B;}
+    #exampleModal3 h2, #exampleModal3 h3 {color: #FEDA2B;}
     #exampleModal3 .modal-header {background-color: #FEDA2B!important;}
-    #exampleModal4 h6 {color: #78FF7C;}
+    #exampleModal4 h2, #exampleModal4 h3 {color: #78FF7C;}
     #exampleModal4 .modal-header {background-color: #78FF7C!important;}
-    #exampleModal5 h6 {color: #C400FF;}
+    #exampleModal5 h2, #exampleModal5 h3 {color: #C400FF;}
     #exampleModal5 .modal-header {background-color: #C400FF!important;}
-    #exampleModal6 h6 {color: #A2FCFF;}
+    #exampleModal6 h2, #exampleModal6 h3 {color: #A2FCFF;}
     #exampleModal6 .modal-header {background-color: #A2FCFF!important;}
-    #exampleModal7 h6 {color: #837AFF;}
+    #exampleModal7 h2, #exampleModal7 h3 {color: #837AFF;}
     #exampleModal7 .modal-header {background-color: #837AFF!important;}
-    #exampleModal8 h6 {color: #F27DFF;}
+    #exampleModal8 h2, #exampleModal8 h3 {color: #F27DFF;}
     #exampleModal8 .modal-header {background-color: #F27DFF!important;}
 
     span {
