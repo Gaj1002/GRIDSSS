@@ -1,73 +1,194 @@
-Topic_1: Wat is een grid?
+Topic_1: Wat zijn grids?
 ----
-Topic_2: Waarom gebruik je grids?
+Topic_2: Do's and dont's
 ----
-Topic_3: Terminologie
+Topic_3: Waarom Grids?
 ----
-Topic_4: Starting points
+Topic_4: Tools
 ----
-Topic_5: Do's and Don't
+Topic_5: Terminologie
 ----
-Topic_6: Tools
+Topic_6: History
 ----
-Topic_7: History
+Topic_7: Startig points
 ----
-Topic_8: We ran out of topics
-----
-
-
-----
-Introduction_topic_3: Om het ontwerp van een grid goed te kunnen communiceren met anderen is het belangrijk om dezelfde terminologie te gebruiken.
-----
-Header_topic_3_1: Format
-----
-Text_topic_3_1:Het medium waarbinnen een ontwerp is geplaatst. Bijvoorbeeld: In een boek zou het format de pagina zijn; op een webpagina is dit de grootte van het venster van je webbrowser.
-----
-Header_topic_3_2: Units
-----
-Text_topic_3_2:Units zijn de verticale lijnen waarin een grid is verdeeld. Het is de kleinste verticale verdeling van een format, en is hierdoor meestal te klein om tekstuele content in te plaatsen. Zie het als het skelet van een grid.
-----
-Header_topic_3_3: Kolommen
-----
-Text_topic_3_3: Kolommen zijn een combinatie van een of meerdere units met hetzelfde type content.
-----
-Header_topic_3_4: Gutters
-----
-Text_topic_3_4: Gutters vormen de witruimte tussen de units. Ze bestaan om een duidelijk onderscheid te creëren tussen de verschillende elementen op de pagina door ze visueel uit elkaar te plaatsen. Gutters geven de content als het ware ruimte om adem te halen, wat zorgt voor een rustige uitstraling.
-----
-Header_topic_3_5: Baseline Grid
-----
-Text_topic_3_5: Het baseline grid zijn de onzichtbare horizontale lijnen waarop een lettertype berust. Het wordt bepaald door de lijnhoogte (of leading) van de typografie op de pagina. Dit is de voornaamste reden dat type design en grid design nauw verbonden zijn met elkaar.
-----
-Header_topic_3_6: Margin & Padding
-----
-Text_topic_3_6: Margins vormen de witruimte tussen de buitenste rand van de content en de rand van het format. Paddings vormen de witruimte aan de binnenkant van de content.
-----
-Header_topic_3_7: Content
-----
-Text_topic_3_7: Alle losse onderdelen waarmee een grid kan worden ingedeeld. Bijvoorbeeld: text, headers, afbeeldingen, knoppen, etc.----
-----
-Header_topic_3_8: Rows
-----
-Text_topic_3_8: Fields zijn de horizontale verdeling van een grid. Er zijn verschillende manieren waarop de hoogte van fields berekend kunnen worden, maar de meest effectieve manieren zijn om het grid uit te lijnen op het baseline grid, het gebruik van de golden ratio.
-----
-Header_topic_3_9: Modules
-----
-Text_topic_3_9: Modules zijn de vlakken die ontstaan tussen de kruising van de verticale en horizontale lijnen in een grid.
+Topic_8: Bronnen
 ----
 
 
-Introduction_topic_4: Soms is het lastig bepalen waar je moet beginnen bij het opstellen van een grid. Hieronder volgen een aantal veelgebruikte technieken die het makkelijker maken om tot een goed grid te komen.
+Header_topic_1_1:
 ----
-Header_topic_4_1: Golden ratio
+Text_topic_1_1:
 ----
-Text_topic_4_1:De golden ratio (1:1.618) is een vaak voorkomende ratio in de natuur. Elementen met de ratio (bijvoorbeeld een UI element) worden hierdoor vaak als visueel aantrekkelijk beschouwd.
+
+
+Header_topic_2_1: Do: Plan hoe een raster relateert tot zijn container
 ----
-Text_topic_4_2: De fibonacci sequence is een serie getallen waarbij elk getal wordt gevormd door de som van de twee nummers die ervoor kwamen, gestart bij 0 en 1. Het delen van twee opeenvolgende getallen leidt tot de golden ratio.
+Text_topic_2_1: Josef Müller-Brockmann benadrukte in zijn boek Grid Systems dat de manier waarop een raster op de pagina wordt geplaatst - hoe de marges zijn opgezet - een grote invloed kan hebben op hoe het raster presteert, zowel functioneel als esthetisch.
 ----
-Header_topic_4_3: Rule of Thirds
+Header_topic_2_2: Do: Design niet alleen met een grid, design het grid zelf
 ----
-Text_topic_4_3: De rule of thirds of ‘regel van derden’ verdeelt een format (zoals een webpagina) in drie verticale en drie horizontale delen waarbij visuele elementen op de kruising van de 4 lijnen worden geplaatst.
+Text_topic_2_2: Wanneer je een nieuw document opent om een publicatie of website te ontwerpen, is het verleidelijk om te beginnen met uw "gebruikelijke" raster - misschien een aantal kolommen die u gewend bent of een gootbreedte die u altijd gebruikt. Maar het is de moeite waard om op papier te blijven en de tijd te nemen om uit te zoeken wat voor soort raster uw project eigenlijk nodig heeft. Dit kan voorkomen dat u opgesloten raakt in een raster dat niet echt werkt voor datgene waar u aan werkt.
 ----
-Text_topic_4_4: Het plaatsen van belangrijke content op de kruisingen maakt het makkelijker voor de gebruiker om informatie te scannen, en zorgt tegelijkertijd voor een mooi visueel beeld.
+Header_topic_2_3: Begin en eindig elementen altijd binnen een kolom
+----
+Text_topic_2_3: De gutter kan het best gebruikt worden om elementen te scheiden. Tekst en afbeeldingen kunnen natuurlijk over meerdere kolommen spreiden, maar moeten beginnen en eindigen aan de rand van een kolom, niet in de gutter.
+----
+Header_topic_2_4: Don’t: De baseline uitlijning vergeten
+----
+Text_topic_2_4: Als je ervoor zorgt dat alle tekst in een kolomgebaseerd ontwerp ook vasthoudt aan een consistente basislijn, kan dit een groot verschil maken voor het gevoel van harmonie en organisatie op een pagina. Uitlijning van basislijnen wordt vaak over het hoofd gezien in webontwerp, maar met een zorgvuldige planning is het mogelijk om te bereiken.
+----
+Header_topic_2_5: Do: Overweeg voor het ontwerpen van web- en gebruikersinterface een systeem zoals het 8px-raster.
+----
+Text_topic_2_5: Tegenwoordig moeten onze ontwerpen werken en er op verschillende apparaten en schermresoluties scherp uitzien. Het gebruik van dimensies en afstanden die veelvouden van een basisnummer zijn, maakt deze overgangen schoon en systematisch. Het is nu gebruikelijk om een 4px of 8px raster te gebruiken, omdat dit betekent dat ontwerpen perfect kunnen worden geschaald op retina-schermen: één pixel op een scherm met lage resolutie wordt een raster van 2 bij 2 pixels op een scherm met hoge resolutie.
+----
+
+
+Header_topic_3_1: Waarom worden grids gebruikt?
+----
+Text_topic_3_1: Het hele doel van designers is het oplossen van problemen. Webdesigners worden geconfronteerd met het zoeken van problemen om bepaalde elementen goed te visualiseren en te organiseren. Om een van deze problemen aan te gaan kunnen we daarom dus gebruik maken van Grids. Dit is zeker niet de enige oplossing om het hele probleem te verhelpen, maar het heeft natuurlijk wel een paar interessante voordelen:
+----
+Kop_topic_3_2: Efficientie
+----
+Text_topic_3_2: Met grids kunnen ontwerpers snel elementen aan een lay-out toevoegen, omdat veel lay-out beslissingen worden aangepakt tijdens het bouwen van het grid systeem.
+----
+Kop_topic_3_3: Duidelijkheid
+----
+Text_topic_3_3: Grids brengen orde in een layout waardoor bezoekers makkelijker informatie kunnen vinden en navigeren.
+----
+Kop_topic_3_4: Samenwerking
+----
+Text_topic_3_4: Grids maken het gemakkelijker voor andere ontwerpers om aan het ontwerp te werken en samen te werken, omdat ze een plan bieden voor waar ze elementen kunnen plaatsen.
+----
+Kop_topic_3_5: Consistentie
+----
+Text_topic_3_5: Grids leiden tot consistentie in de lay-out van pagina’s op een enkele site of zelfs meerdere sites waardoor een structurele harmonie in het ontwerp staat.
+----
+Kop_topic_3_6: Snelheid
+----
+Text_topic_3_6: Grids kunnen de ontwerptijd aanzienlijk versnellen en verbeteren, omdat ze kunnen dienen als een gids die aangeeft waar elementen het beste kunnen worden geplaatst en geschaald.
+----
+Kop_topic_3_7: Flexibiliteit
+----
+Text_topic_3_7: Alle grids zijn zeer functioneel, waardoor flexibele dingen zich kunnen aanpassen aan je veranderende ontwerp. Bij het maken van een grid krijg je de optie om verschillende type grids toe te passen. Zo kun je bijvoorbeeld van een design die een 1 kolom grid gebruikt misschien wel een 2 of 3 kolom grid gebruiken.
+----
+
+
+Introduction_topic_4: De grootste uitdaging bij het ontwerpen van een grid is meestal het bepalen van het geschikte aantal kolommen en de afmetingen hiervan. Zeker als het format responsief moet zijn kan het soms en irritant rekenwerk zijn. Dit is waar een aantal behoorlijk geweldige tools binnenkomen:
+----
+Header_topic_4_1: Frameworks
+----
+Kop_topic_4_1: Columnal
+----
+Text_topic_4_1: Columnal is een 1140 pixel breed gridontwerp die het verbreden en verkleinen van browsers in een responsief ontwerp mogelijk maakt. Het "elastische" raster bevat kolommen en subkolommen om sites op vrijwel gelijke breedte te optimaliseren, inclusief mobiel.
+----
+Kop_topic_4_2: 1140 CSS GRID
+----
+Text_topic_4_2: Een gridsysteem dat vloeiend is en 1140 en 1280 pixels gebruikt als basis voor een raster met 12 kolommen. Deze structuur met 12 kolommen wordt vervolgens verdeeld in rasters van twee, drie, vier of zes kolommen om wijzigingen in de browserbreedte mogelijk te maken.
+----
+Kop_topic_4_3: Frameless
+----
+Text_topic_4_3: Het Frameless-raster bevat vaste kolommen die je helpen zich aan te passen aan verschillende browserformaten. Het helpt u bij het plannen en ontwerpen voor mobiel zonder een traditioneel responsief ontwerpraster te zijn.
+----
+Kop_topic_4_4: SimpleGrid
+----
+Text_topic_4_4: Responsief raster met één klasse voor alle eenheden van één grootte waardoor het zelfbewust en intuïtief te gebruiken is.
+----
+Kop_topic_4_5: Skeleton
+----
+Text_topic_4_5: Het basisraster van Skeleton is een variatie op het 960-rastersysteem. De syntaxis is eenvoudig en vloeiend tot mobiel.
+----
+Kop_topic_4_6: Responsify
+----
+Text_topic_4_6: Genereer eenvoudig uw eigen responsieve gridsjabloon en bekijk deze op verschillende schermformaten met deze online tool.
+----
+Header_topic_4_7: Design & prototype software
+----
+Text_topic_4_7: Veel design en prototype softwares hebben ingebouwde grid tools, genaamd Layout Grid:
+----
+
+
+Introduction_topic_5: Om het ontwerp van een grid goed te kunnen communiceren met anderen is het belangrijk om dezelfde terminologie te gebruiken.
+----
+Header_topic_5_1: Format
+----
+Text_topic_5_1: Het medium waarbinnen een ontwerp is geplaatst. Bijvoorbeeld: In een boek zou het format de pagina zijn; op een webpagina is dit de grootte van het venster van je webbrowser.
+----
+Header_topic_5_2: Kolommen
+----
+Text_topic_5_2: Kolommen ( of columns) zijn de verticale lijnen waarin een grid is verdeeld. Het is de kleinste verticale verdeling van een format, en is hierdoor meestal te klein om tekstuele content in te plaatsen. Zie het als het skelet van een grid.
+----
+Header_topic_5_3: Goten
+----
+Text_topic_5_3: Goten (of gutters) vormen de witruimte tussen de kolommen. Ze bestaan om een duidelijk onderscheid te creëren tussen de verschillende elementen op de pagina door ze visueel uit elkaar te plaatsen. Goten geven de content als het ware ruimte om adem te halen, wat zorgt voor een rustige uitstraling.
+----
+Header_topic_5_4: Baseline grid
+----
+Text_topic_5_4: Het baseline grid zijn de onzichtbare horizontale lijnen waarop een lettertype berust. Het wordt bepaald door de lijnhoogte (of leading) van de typografie op de pagina. Dit is de voornaamste reden dat type-design en grid-design nauw verbonden zijn met elkaar.
+----
+Header_topic_5_5: Rijen
+----
+Text_topic_5_5: Rijen zijn de horizontale verdeling van een grid. Er zijn verschillende manieren waarop de hoogte van rijen berekend kunnen worden, maar de meest effectieve manieren zijn om het grid uit te lijnen op het baseline grid, of het gebruik van de golden ratio.
+----
+Header_topic_5_6: Modules
+----
+Text_topic_5_6: Modules zijn de vlakken die ontstaan tussen de kruising van de verticale en horizontale lijnen in een grid; waar de kolommen en rijen elkaar kruisen.
+----
+Header_topic_5_7: Margin & padding
+----
+Text_topic_5_7: Margins vormen de witruimte tussen de buitenste rand van de content en de rand van het format. Paddings vormen de witruimte aan de binnenkant van de content.
+----
+Header_topic_5_8: Content
+----
+Text_topic_5_8: Alle losse onderdelen waarmee een grid kan worden ingedeeld. Bijvoorbeeld: text, headers, afbeeldingen, knoppen, etc.
+----
+
+
+Introduction_topic_6_1: De handen van vroege grafische ontwerpers werden geleid door noties van het goddelijke. Zoals met vele culturele werken waren de vroegst gepubliceerden vaak religieus. Het tekenen, schrijven, en binden van deze boeken was tijdrovend, dus waarom deze inspanningen verspillen aan iets minder dan wat hierboven kwam? Historische romances en zelfhulpboeken zouden honderden jaren moeten wachten, terwijl de publicatiebalk veel lager zou zijn.
+----
+Introduction_topic_6_2: De grafische ontwerpers die deze teksten produceerden hadden geen formele training, maar hun werk toont een ongelooflijke aandacht voor visuele harmonie en een diep bewustzijn van de kracht van visuals om te communiceren met een grotendeels analfabeet publiek.
+----
+Header_topic_6_1: Vroege geschiedenis van Grids
+----
+Text_topic_6_1_1: Het is waarschijnlijk dat het oudste gridsysteem bestond uit een simpele versie van wat we nu het baseline grid noemen. Op oude manuscripten werden hulplijnen getekend die de schrijver hielp bij het maken van rechte en gelijkmatig verdeelde tekst. Eenvoudige kolom grids zijn te vinden in ‘The Death Sea Scrolls’, waar tekst in leesbare blokken is verdeeld, om zo een lange rol te ordenen.
+----
+Text_topic_6_1_2: Ongeveer 1500 jaar later werden dezelfde principes gemakkelijk overgebracht naar vroege westerse drukpersen. Deze machines moesten handmatig, letter voor letter ingeladen worden, handmatig worden geïnkt, en vervolgens op papier worden gedrukt. De metalen blokjes waarop de letters stonden waren even hoog, waardoor automatisch een baseline ontstond. Later werd er geëxperimenteerd met lijnhoogte door loodjes tussen de regels te plaatsen (leading).
+----
+Text_topic_6_1_3: De Gutenberg-bijbel - het eerste westerse boek gedrukt met een verplaatsbaar type - gebruikt een grid met twee kolommen.
+----
+Text_topic_6_1_4: Kranten uit de late 19e en vroege 20e eeuw experimenteerden met grids in de vorm van kolomrasters om de hoeveelheid informatie op een blad maximaal te gebruiken. Krantenpapier is ook vrij groot (ongeveer 75 cm breed) waardoor de leesbaarheid van een artikel onwijs slecht is als de tekst gebruik zou maken van de volledige breedte. Om de dit probleem te verhelpen werden smalle kolommen gebruikt.
+----
+Header_topic_6_2: Het nieuwe grid systeem
+----
+Text_topic_6_2_1: Aan het begin van de 20e eeuw werden Grids interessanter toen avant-garde ontwerpers, door invloeden van bewegingen zoals Bauhaus en De Stijl, meer begonnen te experimenteren met de lay-out. Midden-eeuwse ontwerpers als Jan Tschichold en Josef Müller-Brockmann ontwikkelden nieuwe grid systemen in de vorm van spaarzame, typografische lay-outs en posterontwerpen.
+----
+Text_topic_6_2_2: Grid-systemen in grafisch ontwerp hebben eeuwen, zo niet millennia overleefd. Sommige daterend uit de vroegst verlichte manuscripten. Ondanks de opwindende anti-design experimenten van de late 20e eeuw, zijn betwistbare rasters nog nooit zo breed gebruikt als ze nu zijn.
+----
+Text_topic_6_2_3: Dit komt door de dominantie van het internet en digitale apparaten, en met name vanwege de opkomende behoefte aan websites en apps om hun formaat aan te passen en zich opnieuw te vormen naar verschillende apparaten (van enorme tv's tot smartphones tot smartwatches). Voor de visuele en UI-ontwerpers van vandaag zijn kolom grids een onmisbaar hulpmiddel bij het maken van ontwerpen met voldoende flexibele structuur.
+----
+Header_topic_6_3: Het moderne grid
+----
+Text_topic_6_3: De persistentie van grid-gebaseerd ontwerp in web- en app ontwerp is ook een uitdaging geweest voor ontwikkelaars die webstandaarden vormgeven. In de begindagen van het web gebruikten ontwikkelaars vaak tabellen om een lay-out te organiseren. Sindsdien zijn normen geëvolueerd en hebben we nu systemen zoals Flexbox en CSS Grid die een basis kader bieden voor het getrouw implementeren van gridsystemen in websites en apps.
+----
+
+
+Introduction_topic_7: Soms is het lastig bepalen waar je moet beginnen bij het opstellen van een grid. Hieronder volgen een aantal veelgebruikte technieken die het makkelijker maken om tot een goed grid te komen.
+----
+Header_topic_7_1: Fibonacci (en golden ratio)
+----
+Text_topic_7_1: De Fibonacci-reeks is serie getallen, beginnend met 0 en 1, waarbij het volgende getal in de reeks altijd bepaald wordt door de som van de twee getallen ervoor. Het delen van twee opeenvolgende getallen leidt tot de golden ratio (1:1.618). Deze ratio komt vaak terug in de natuur waardoor elementen met de ratio (bijvoorbeeld een UI element) hierdoor vaak als visueel aantrekkelijk worden beschouwd.
+----
+Header_topic_7_2: Rule of thirds
+----
+Text_topic_7_2: De rule of thirds (of ‘regel van derden’) verdeelt een format (zoals een webpagina) in drie rijen en drie kolommen. Hierbij worden visuele elementen op de kruising van de lijnen geplaatst.
+----
+
+
+Text_topic_8_1: Andrade, A. (2016, 30 juni). The importance of grids - Freepik Blog. Geraadpleegd op 15 november 2019, van https://www.freepik.com/blog/the-importance-of-grids/#:%7E:targetText=The%20grid%20system%20when%20applied,creating%20a%20better%20user%20experience.
+----
+Text_topic_8_2: Babich, N. (2017, 20 december). Building Better UI Designs With Layout Grids — Smashing Magazine. Geraadpleegd op 15 november 2019, van https://www.smashingmagazine.com/2017/12/building-better-ui-designs-layout-grids/
+----
+Text_topic_8_3: Tomasso, K. (2015, 10 augustus). Designing with developers in mind: guides, grids, and frameworks. Geraadpleegd op 15 november 2019, van https://www.invisionapp.com/inside-design/design-with-developers-in-mind/
+----
+Text_topic_8_4: Vinh, K. (2010). Ordering Disorder (1ste editie). United States of America, Berkley: Pearson Education (Us).
 ----
