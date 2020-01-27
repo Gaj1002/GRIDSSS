@@ -7,7 +7,7 @@
     </div>
   </div>
   <div class="row grid-row">
-    <div class="col-xs-6 col-md-3">
+    <div class="col-xs-6 col-md-3" id="eerste_vak">
       <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal1">
         <?= $page->image('search.svg') ?>
         <div class="topic-title">
