@@ -8,7 +8,30 @@
           </button>
       </div>
       <div class="modal-content-copy">
+        <h2 style="margin-top:0px;"><?= $page->Header_topic_1_1()?></h2>
         <p><?= $page->Text_topic_1_1()?></p>
+        <p><?= $page->Text_topic_1_2()?></p>
+        <p><?= $page->Text_topic_1_3()?></p>
+        <p><?= $page->Text_topic_1_4()?></p>
+        <h2 style="margin-top:0px;"><?= $page->Header_topic_1_2()?></h2>
+        <h3 style="margin-top:0px;"><?= $page->Sub_header_topic_1_1()?></h3>
+        <p><?= $page->Text_topic_1_5()?></p>
+        <?php if($image = $page->image('manuscript.png')): ?>
+          <img src="<?= $image->url() ?>" alt="">
+        <?php endif ?>
+
+        <h3 style="margin-top:0px;"><?= $page->Sub_header_topic_1_2()?></h3>
+        <p><?= $page->Text_topic_1_6()?></p>
+        <?php if($image = $page->image('column.png')): ?>
+          <img src="<?= $image->url() ?>" alt="">
+        <?php endif ?>
+
+        <h3 style="margin-top:0px;"><?= $page->Sub_header_topic_1_3()?></h3>
+        <p><?= $page->Text_topic_1_7()?></p>
+        <?php if($image = $page->image('baseline.png')): ?>
+          <img src="<?= $image->url() ?>" alt="">
+        <?php endif ?>
+
       </div>
       <div class="scroller" style="height:90vh;"></div>
     </div>
@@ -25,6 +48,7 @@
           </button>
       </div>
       <div class="modal-content-copy">
+        <h2 style="margin-top:0px;"><?= $page->Header_topic_2_0()?></h2>
         <h3><?= $page->header_topic_2_1()?></h3>
         <p><?= $page->Text_topic_2_1()?></p>
         <h3><?= $page->header_topic_2_2()?></h3>

@@ -16,12 +16,46 @@ Topic_8: Bronnen
 ----
 
 
-Header_topic_1_1:
+
+
+Header_topic_1_1: Definitie van Grids
 ----
 Text_topic_1_1: Grids (of grid systeem) is een methode waarbij informatie visueel geordend wordt in rasters, om zo het gebruiksgemak van een format (tijdschrift, webpagina, etc.) te verhogen. De methode wordt meestal ingezet om consistentie, duidelijkheid, en een visueel geheel te vormen.
 ----
+Text_topic_1_2: We hoeven niet verder te kijken dan onze dagelijkse omgevingen om de schoonheid en het evenwicht van grids te zien. Van de archiefkasten op kantoor tot de gangpaden van een supermarkt, grids maken het navigeren in onze wereld een stuk eenvoudiger.
+----
+Text_topic_1_3: Grids werken als een soort geometrische magie, die visuele elementen leiden om zich te houden aan verticale en horizontale lijnen. Ontwerpers zijn de tovenaars die hen hanteren en orde en organisatie brengen in wat anders chaos zou zijn.
+----
+Text_topic_1_4: Uitlijning, afstand en verhoudingen zijn allemaal belangrijke ingrediënten voor het creëren van een visueel gevoel van harmonie. Grids fungeren als het verborgen kader voor het ontwerp van de inkt- en papyrusrollen van de oude geschiedenis tot de pixels van de steeds meer digitale wereld van vandaag.
+----
+Header_topic_1_2: Vormen van Gridsystemen
+----
 
 
+
+Sub_header_topic_1_1: Manuscript Grid
+----
+Text_topic_1_5: Het Manuscript Grid is de basis voor alle tijdschriften, kranten, ebooks en alle op tekst gebaseerde ontwerpen. Het lay-outontwerp van het manuscriptraster is ingesteld op de eerste pagina. De rest van de pagina's volgen dezelfde afmetingen. Het is een goede gewoonte om het manuscriptraster consistent te houden binnen één documentontwerp. Zelfs als er elementen van de rand afbloeden, zoals een vorm of een foto, blijft het raster aanwezig om een goede balans voor het hele ontwerp te behouden.
+----
+
+Sub_header_topic_1_2: Kolom Grid
+----
+Text_topic_1_6: Kolomrasters worden gebruikt om elementen in kolommen te ordenen. Tijdschriften gebruiken kolomrasters om de tekst in gemakkelijk leesbare secties te plaatsen. Sommige
+academische schoolboeken gebruiken ze ook. Kolomrasters worden ook binnen websites gebruikt, zoals in online kranten of blogs. Kolomrasters kunnen zo weinig als twee kolommen of zoveel als zes of meer hebben, maar dat is niet erg gebruikelijk.
+----
+
+Sub_header_topic_1_3: Baseline Grid
+----
+Text_topic_1_7: Een baseline is de regel waar tekst staat. Leidend is de afstand tussen baselines. Een baselinerasters kan worden toegepast op elk van de bovengenoemde roosters. Als u een baselineraster gebruikt, krijgt de tekst een vloeiend ritme. Het geeft de koppen en ondertitels ook een proportionele ruimte ten opzichte van de hoofdtekst, waardoor ze aangenamer worden voor de lezer.----
+----
+
+
+
+
+
+
+Header_topic_2_0: How to Grid
+----
 Header_topic_2_1: Do: Plan hoe een raster relateert tot zijn container
 ----
 Text_topic_2_1: Josef Müller-Brockmann benadrukte in zijn boek Grid Systems dat de manier waarop een raster op de pagina wordt geplaatst - hoe de marges zijn opgezet - een grote invloed kan hebben op hoe het raster presteert, zowel functioneel als esthetisch.
@@ -41,6 +75,8 @@ Text_topic_2_4: Als je ervoor zorgt dat alle tekst in een kolomgebaseerd ontwerp
 Header_topic_2_5: Do: Overweeg voor het ontwerpen van web- en gebruikersinterface een systeem zoals het 8px-raster.
 ----
 Text_topic_2_5: Tegenwoordig moeten onze ontwerpen werken en er op verschillende apparaten en schermresoluties scherp uitzien. Het gebruik van dimensies en afstanden die veelvouden van een basisnummer zijn, maakt deze overgangen schoon en systematisch. Het is nu gebruikelijk om een 4px of 8px raster te gebruiken, omdat dit betekent dat ontwerpen perfect kunnen worden geschaald op retina-schermen: één pixel op een scherm met lage resolutie wordt een raster van 2 bij 2 pixels op een scherm met hoge resolutie.
+
+
 ----
 
 
@@ -72,6 +108,8 @@ Kop_topic_3_7: Flexibiliteit
 ----
 Text_topic_3_7: Alle grids zijn zeer functioneel, waardoor flexibele dingen zich kunnen aanpassen aan je veranderende ontwerp. Bij het maken van een grid krijg je de optie om verschillende type grids toe te passen. Zo kun je bijvoorbeeld van een design die een 1 kolom grid gebruikt misschien wel een 2 of 3 kolom grid gebruiken.
 ----
+
+
 
 
 Introduction_topic_4: De grootste uitdaging bij het ontwerpen van een grid is meestal het bepalen van het geschikte aantal kolommen en de afmetingen hiervan. Zeker als het format responsief moet zijn kan het soms en irritant rekenwerk zijn. Dit is waar een aantal behoorlijk geweldige tools binnenkomen:
@@ -106,6 +144,9 @@ Header_topic_4_7: Design & prototype software
 ----
 Text_topic_4_7: Veel design en prototype softwares hebben ingebouwde grid tools, genaamd Layout Grid:
 ----
+
+
+
 
 
 Introduction_topic_5: Om het ontwerp van een grid goed te kunnen communiceren met anderen is het belangrijk om dezelfde terminologie te gebruiken.
@@ -144,6 +185,9 @@ Text_topic_5_8: Alle losse onderdelen waarmee een grid kan worden ingedeeld. Bij
 ----
 
 
+
+
+
 Introduction_topic_6_1: De handen van vroege grafische ontwerpers werden geleid door noties van het goddelijke. Zoals met vele culturele werken waren de vroegst gepubliceerden vaak religieus. Het tekenen, schrijven, en binden van deze boeken was tijdrovend, dus waarom deze inspanningen verspillen aan iets minder dan wat hierboven kwam? Historische romances en zelfhulpboeken zouden honderden jaren moeten wachten, terwijl de publicatiebalk veel lager zou zijn.
 ----
 Introduction_topic_6_2: De grafische ontwerpers die deze teksten produceerden hadden geen formele training, maar hun werk toont een ongelooflijke aandacht voor visuele harmonie en een diep bewustzijn van de kracht van visuals om te communiceren met een grotendeels analfabeet publiek.
@@ -172,6 +216,9 @@ Text_topic_6_3: De persistentie van grid-gebaseerd ontwerp in web- en app ontwer
 ----
 
 
+
+
+
 Introduction_topic_7: Soms is het lastig bepalen waar je moet beginnen bij het opstellen van een grid. Hieronder volgen een aantal veelgebruikte technieken die het makkelijker maken om tot een goed grid te komen.
 ----
 Header_topic_7_1: Fibonacci
@@ -182,6 +229,10 @@ Header_topic_7_2: Rule of thirds
 ----
 Text_topic_7_2: De rule of thirds (of ‘regel van derden’) verdeelt een format (zoals een webpagina) in drie rijen en drie kolommen. Hierbij worden visuele elementen op de kruising van de lijnen geplaatst.
 ----
+
+
+
+
 
 
 Text_topic_8_1: Andrade, A. (2016, 30 juni). The importance of grids - Freepik Blog. Geraadpleegd op 15 november 2019, van https://www.freepik.com/blog/the-importance-of-grids/#:%7E:targetText=The%20grid%20system%20when%20applied,creating%20a%20better%20user%20experience.
